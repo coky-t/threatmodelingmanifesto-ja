@@ -5,6 +5,7 @@ This is the unofficial Japanese translation of the [Threat Modeling Manifesto](h
 ### Originator
 
 - Project Site - <https://www.threatmodelingmanifesto.org/>
+- Project Repository - <https://github.com/Threat-Modeling-Manifesto/threat-modeling-manifesto>
 
 # 脅威モデリング宣言 日本語版
 
