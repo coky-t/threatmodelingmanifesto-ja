@@ -1,6 +1,9 @@
 # Threat Modeling Manifesto ja
 
-This is the unofficial Japanese translation of the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/).
+This is the unofficial Japanese translation of the [Threat Modeling Manifesto](https://github.com/Threat-Modeling-Manifesto/threat-modeling-manifesto).
+
+- Document Site - <https://coky-t.github.io/threatmodelingmanifesto-ja/threatmodelingmanifesto-ja.html>
+- Document Repository - <https://github.com/coky-t/threatmodelingmanifesto-ja>
 
 ### Originator
 
@@ -18,3 +21,6 @@ This is the unofficial Japanese translation of the [Threat Modeling Manifesto](h
 ## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
+
+- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-docs-ja>
