@@ -117,7 +117,7 @@
 - [Brook S.E. Schoenfield](https://twitter.com/BrkSchoenfield)
 - [Fraser Scott](https://twitter.com/zeroXten)
 - [Matthew Coles](https://twitter.com/coles_matthewj)
-- [Chris Romeo](https://www.securityjourney.com)
+- [Chris Romeo](https://twitter.com/edgeroute)
 - [Alyssa Miller](https://twitter.com/AlyssaM_InfoSec)
 - [Izar Tarandach](https://twitter.com/izar_t)
 - [Avi Douglen](https://twitter.com/sec_tigger)
@@ -127,13 +127,22 @@
 
 ### 資料
 
-- [New manifesto offers CISOs an agile guide to threat modeling](https://www.scmagazine.com/home/security-news/vulnerabilities/new-manifesto-offers-cisos-an-agile-guide-to-threat-modeling/) article by Derek B. Johnson, SC Magazine
-- [The Threat Modeling Manifesto – Part 1](https://podcast.securityjourney.com/the-threat-modeling-manifesto-part-1/) on the Application Security Podcast
-- [The Threat Modeling Manifesto – Part 2](https://podcast.securityjourney.com/the-threat-modeling-manifesto-part-2/) on the Application Security Podcast
-- [Threat Modeling Manifesto defines the foundation of threat modeling](https://www.linddun.org/post/threat-modeling-manifesto-defines-the-foundation-of-threat-modeling) article by Kim Wuyts, LINDDUN privacy
+- [New manifesto offers CISOs an agile guide to threat modeling](https://www.scmagazine.com/news/threat-hunting/new-manifesto-offers-cisos-an-agile-guide-to-threat-modeling) article by Derek B. Johnson, SC Magazine
+- [The Threat Modeling Manifesto – Part 1](https://appsec.buzzsprout.com/1730684/8122585) on the Application Security Podcast
+- [The Threat Modeling Manifesto – Part 2](https://appsec.buzzsprout.com/1730684/8122584) on the Application Security Podcast
+- [Threat Modeling Manifesto defines the foundation of threat modeling](https://www.old.linddun.org/post/threat-modeling-manifesto-defines-the-foundation-of-threat-modeling) article by Kim Wuyts, LINDDUN privacy
 - [Twitter list of all the authors](https://twitter.com/i/lists/1320580732327137280) by Jonathan Marcil
 - [Security Pros Push for More Pervasive Threat Modeling](https://www.darkreading.com/application-security/security-pros-push-for-more-pervasive-threat-modeling/d/d-id/1339506) article by Robert Lemos, DARKReading
 - [Threat modeling gets its manifesto: Map out your app sec risk first](https://techbeacon.com/security/threat-modeling-gets-its-manifesto-how-map-out-your-app-sec-risk) article by John P. Mello Jr., TechBeacon
 - [How Matters As Much As What & Why](https://www.linkedin.com/pulse/how-matters-much-what-why-brook-schoenfield/) LinkedIn article by Brook Schoenfield
 - [A threat modelling experience](https://www.youtube.com/watch?v=ARjlRFQN7XM&t=1855) talk by Brook S.E. Schoenfield, OWASP BeNeLux-Day 2020
 - [Continuous Threat Modeling for Development Teams](https://www.youtube.com/watch?v=ARjlRFQN7XM&t=3665) talk by Izar Tarandach, OWASP BeNeLux-Day 2020
+- [Using the Threat Modeling Manifesto to Get Your Team Going](https://securityintelligence.com/posts/using-threat-modeling-manifesto-to-get-going/) By Irene Michlin
+- [The Threat Modeling Manifesto Posters](https://agilestationery.com/products/threat-modeling-manifesto-poster) on Agile Stationery
+- [Threat Model Diversity](https://brookschoenfield.com/?p=360) by Brook Schoenfield
+- [Boost Pipeline Efficiency with Threat Modeling](https://www.devseccon.com/blog/boost-pipeline-efficiency-with-threat-modeling-secadvent-day-3) by Alyssa Miller
+- [Privacy. Privacy by design. Privacy engineering.](https://www.devseccon.com/blog/privacy-glitter-and-unicorns-secadvent-day-2) by Kim Wuyts
+- [Threat Modeling Manifesto Panel](https://www.youtube.com/watch?v=CZxPZ-G3Gys), Open Security Summit 2020
+- [Using the Threat Modeling Manifesto to Build an Enterprise Threat Modeling Program](https://www.youtube.com/watch?v=jeHL8PXtezc) by Chris Romeo, LASCON 2021
+- [Threat Modeling Manifesto in a Mobile First World](https://www.youtube.com/watch?v=jgcO23RmSw4) by Chris Romeo at DevSecOps Bunch
+- [Threat Modeling: A Manifesto And Some Code](https://www.youtube.com/watch?v=9Fu6BKMJnvw) by Matthew Coles and Izar Tarandach at DevSecOps - London Gathering

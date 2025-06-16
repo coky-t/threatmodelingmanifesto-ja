@@ -41,6 +41,12 @@
 <style>
 
 
+  #patterns {
+	scroll-margin-top: 10em;
+  }
+  #antipatterns {
+	scroll-margin-top: 10em;
+  }
   a {
 	color: #0063C8;
   }
@@ -194,6 +200,11 @@
         <a class="nav-link" href="#about">脅威モデリング宣言とは</a>
       </li>
     </ul>
+	<ul class="navbar-nav ">
+	  <li class="nav-item" style="font-size: 0.75em;">
+		<a class="nav-link" href="https://www.threatmodelingmanifesto.org/capabilities/"><span class="d-none d-md-inline d-lg-none">Capabilities</span><span class="d-md-none d-lg-inline">Threat Modeling Capabilities</span> <span class="badge badge-secondary  d-inline" style="vertical-align: top;">New</span></a>
+	  </li>
+    </ul>
   </div>
 </nav>
 
@@ -341,14 +352,14 @@
 
 </section>
 
-<section id="about" class="min-vh-100" style="page-break-before: always;">
+<section id="about" style="page-break-before: always;">
   <div class="jumbotron py-4 shadow">
     <h1>脅威モデリング宣言とは</h1>
 
 	<p>脅威モデリング宣言は脅威モデリングの知識を集めて整理したものを共有することを意図しています。他の実務者が脅威モデリングを採用して、開発時のセキュリティやプライバシーが向上するように、情報を提供し、啓発し、ひらめきを与えることでしょう。</p>
 	<p>私たちは脅威モデリングについて考え、行い、教え、実践を発展させてきた長年の経験からこの宣言を作成しました。私たちは業界のプロフェッショナル、学者、執筆者、ハンズオンエキスパート、プレゼンターといった多様なバックグラウンドを持っています。私たちは脅威モデリングにおけるさまざまな視点を集結しています。脅威モデリングにおいて最良の結果をもたらす条件とアプローチ、そして失敗した際の是正方法に重点を置いた継続的な会話が私たちのアイデアを形作り続けています。</p>
 	
-	<p class="noprint">宣言の <a href="https://github.com/Threat-Modeling-Manifesto/threat-modeling-manifesto/releases/latest/download/threat-modeling-manifesto.pdf">PDF 版 (英語)</a> を提供しており、このウェブサイトも <a href="javascript:window.print();">印刷に適しています</a> 。</p>
+	<p class="noprint">宣言の <a href="https://github.com/Threat-Modeling-Manifesto/threat-modeling-manifesto/releases/download/1/threat-modeling-manifesto.pdf">PDF 版 (英語)</a> を提供しており、このウェブサイトも <a href="javascript:window.print();">印刷に適しています</a> 。</p>
 
 	<p class="printonly">この宣言の最新版は常に <a href="https://www.threatmodelingmanifesto.org/">https://www.threatmodelingmanifesto.org/</a> にあります。</p>
 	
@@ -368,7 +379,7 @@
 		<li><a href="https://twitter.com/BrkSchoenfield" target="_blank">Brook S.E. Schoenfield</a></li>
 		<li><a href="https://twitter.com/zeroXten" target="_blank">Fraser Scott</a></li>
 		<li><a href="https://twitter.com/coles_matthewj" target="_blank">Matthew Coles</a></li>
-		<li><a href="https://www.securityjourney.com" target="_blank">Chris Romeo</a></li>
+		<li><a href="https://twitter.com/edgeroute" target="_blank">Chris Romeo</a></li>
 		<li><a href="https://twitter.com/AlyssaM_InfoSec" target="_blank">Alyssa Miller</a></li>
 		<li><a href="https://twitter.com/izar_t" target="_blank">Izar Tarandach</a></li>
 		<li><a href="https://twitter.com/sec_tigger" target="_blank">Avi Douglen</a></li>
@@ -382,16 +393,25 @@
 	
     <h3 class="noprint">資料</h3>
 	<ul class="noprint">
-		<li><a href="https://www.scmagazine.com/home/security-news/vulnerabilities/new-manifesto-offers-cisos-an-agile-guide-to-threat-modeling/" target="_blank">New manifesto offers CISOs an agile guide to threat modeling</a> article by Derek B. Johnson, SC Magazine</li>
-		<li><a href="https://podcast.securityjourney.com/the-threat-modeling-manifesto-part-1/" target="_blank">The Threat Modeling Manifesto – Part 1</a> on the Application Security Podcast</li>
-		<li><a href="https://podcast.securityjourney.com/the-threat-modeling-manifesto-part-2/" target="_blank">The Threat Modeling Manifesto – Part 2</a> on the Application Security Podcast</li>
-		<li><a href="https://www.linddun.org/post/threat-modeling-manifesto-defines-the-foundation-of-threat-modeling" target="_blank">Threat Modeling Manifesto defines the foundation of threat modeling</a> article by Kim Wuyts, LINDDUN privacy</li>
+		<li><a href="https://www.scmagazine.com/news/threat-hunting/new-manifesto-offers-cisos-an-agile-guide-to-threat-modeling" target="_blank">New manifesto offers CISOs an agile guide to threat modeling</a> article by Derek B. Johnson, SC Magazine</li>
+		<li><a href="https://appsec.buzzsprout.com/1730684/8122585" target="_blank">The Threat Modeling Manifesto – Part 1</a> on the Application Security Podcast</li>
+		<li><a href="https://appsec.buzzsprout.com/1730684/8122584" target="_blank">The Threat Modeling Manifesto – Part 2</a> on the Application Security Podcast</li>
+		<li><a href="https://www.old.linddun.org/post/threat-modeling-manifesto-defines-the-foundation-of-threat-modeling" target="_blank">Threat Modeling Manifesto defines the foundation of threat modeling</a> article by Kim Wuyts, LINDDUN privacy</li>
 		<li><a href="https://twitter.com/i/lists/1320580732327137280" target="_blank">Twitter list of all the authors</a> by Jonathan Marcil</li>
 		<li><a href="https://www.darkreading.com/application-security/security-pros-push-for-more-pervasive-threat-modeling/d/d-id/1339506" target="_blank">Security Pros Push for More Pervasive Threat Modeling</a> article by Robert Lemos, DARKReading</li>
 		<li><a href="https://techbeacon.com/security/threat-modeling-gets-its-manifesto-how-map-out-your-app-sec-risk" target="_blank">Threat modeling gets its manifesto: Map out your app sec risk first</a> article by John P. Mello Jr., TechBeacon</li>
 		<li><a href="https://www.linkedin.com/pulse/how-matters-much-what-why-brook-schoenfield/" target="_blank">How Matters As Much As What & Why</a> LinkedIn article by Brook Schoenfield</li>
 		<li><a href="https://www.youtube.com/watch?v=ARjlRFQN7XM&t=1855" target="_blank">A threat modelling experience</a> talk by Brook S.E. Schoenfield, OWASP BeNeLux-Day 2020</li>
 		<li><a href="https://www.youtube.com/watch?v=ARjlRFQN7XM&t=3665" target="_blank">Continuous Threat Modeling for Development Teams</a> talk by Izar Tarandach, OWASP BeNeLux-Day 2020</li>
+		<li><a href="https://securityintelligence.com/posts/using-threat-modeling-manifesto-to-get-going/" target="_blank">Using the Threat Modeling Manifesto to Get Your Team Going</a> By Irene Michlin</li>
+		<li><a href="https://agilestationery.com/products/threat-modeling-manifesto-poster" target="_blank">The Threat Modeling Manifesto Posters</a> on Agile Stationery</li>
+		<li><a href="https://brookschoenfield.com/?p=360" target="_blank">Threat Model Diversity</a> by Brook Schoenfield</li>
+		<li><a href="https://www.devseccon.com/blog/boost-pipeline-efficiency-with-threat-modeling-secadvent-day-3" target="_blank">Boost Pipeline Efficiency with Threat Modeling</a> by Alyssa Miller</li>
+		<li><a href="https://www.devseccon.com/blog/privacy-glitter-and-unicorns-secadvent-day-2" target="_blank">Privacy. Privacy by design. Privacy engineering.</a> by Kim Wuyts</li>
+		<li><a href="https://www.youtube.com/watch?v=CZxPZ-G3Gys" target="_blank">Threat Modeling Manifesto Panel</a>, Open Security Summit 2020</li>
+		<li><a href="https://www.youtube.com/watch?v=jeHL8PXtezc" target="_blank">Using the Threat Modeling Manifesto to Build an Enterprise Threat Modeling Program</a> by Chris Romeo, LASCON 2021</li>
+		<li><a href="https://www.youtube.com/watch?v=jgcO23RmSw4" target="_blank">Threat Modeling Manifesto in a Mobile First World</a> by Chris Romeo at DevSecOps Bunch</li>
+		<li><a href="https://www.youtube.com/watch?v=9Fu6BKMJnvw" target="_blank">Threat Modeling: A Manifesto And Some Code</a> by Matthew Coles and Izar Tarandach at DevSecOps - London Gathering </li>
 		<!-- <li><a href="" target="_blank"></a></li> -->
 	</ul>
 
@@ -421,11 +441,16 @@ function getHash() {
 
 $(function() {
 
-
-	$(window).resize(function() {
+	let resizeTimer;
+	$(window).on('orientationchange', function(event) {
+		//console.log('Device is changing orientation');
 		var h = getHash();
 		if (h) {
-			$(h)[0].scrollIntoView();
+			//console.log('scrolling into view..');
+			clearTimeout(resizeTimer);
+			resizeTimer = setTimeout(function() {
+				$(h)[0].scrollIntoView();
+			}, 200);
 		}
 	});
 
