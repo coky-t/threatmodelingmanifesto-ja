@@ -13,6 +13,7 @@ This is the unofficial Japanese translation of the [Threat Modeling Manifesto](h
 ## 脅威モデリング宣言 日本語版
 
 * 脅威モデリング宣言 [(markdown)](threatmodelingmanifesto-ja.md) [(html)](https://coky-t.github.io/threatmodelingmanifesto-ja/)
+* 脅威モデリング宣言 [(markdown)](threatmodelingcapabilities-ja.md) [(html)](https://coky-t.github.io/threatmodelingmanifesto-ja/capabilities/)
 
 ## License
 
