@@ -137,7 +137,7 @@
 - [How Matters As Much As What & Why](https://www.linkedin.com/pulse/how-matters-much-what-why-brook-schoenfield/) LinkedIn article by Brook Schoenfield
 - [A threat modelling experience](https://www.youtube.com/watch?v=ARjlRFQN7XM&t=1855) talk by Brook S.E. Schoenfield, OWASP BeNeLux-Day 2020
 - [Continuous Threat Modeling for Development Teams](https://www.youtube.com/watch?v=ARjlRFQN7XM&t=3665) talk by Izar Tarandach, OWASP BeNeLux-Day 2020
-- [Using the Threat Modeling Manifesto to Get Your Team Going](https://securityintelligence.com/posts/using-threat-modeling-manifesto-to-get-going/) By Irene Michlin
+- [Using the Threat Modeling Manifesto to Get Your Team Going](https://web.archive.org/web/20240423212853/securityintelligence.com/posts/using-threat-modeling-manifesto-to-get-going/) By Irene Michlin
 - [The Threat Modeling Manifesto Posters](https://agilestationery.com/products/threat-modeling-manifesto-poster) on Agile Stationery
 - [Threat Model Diversity](https://brookschoenfield.com/?p=360) by Brook Schoenfield
 - [Boost Pipeline Efficiency with Threat Modeling](https://www.devseccon.com/blog/boost-pipeline-efficiency-with-threat-modeling-secadvent-day-3) by Alyssa Miller
